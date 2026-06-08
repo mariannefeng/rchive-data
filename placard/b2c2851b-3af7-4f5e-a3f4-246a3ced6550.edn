@@ -1,8 +1,7 @@
 {:placard/artists ["John Lemme" "Rafal Dittwald" "Canna Wen"]
- :placard/description
- "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+ :placard/description "Lorem ipsum"
  :placard/id #uuid "b2c2851b-3af7-4f5e-a3f4-246a3ced6550"
  :placard/materials "PLA, paint, plastic sphere scavenged from H&M's garbage"
  :placard/shortcode "octo"
  :placard/title "Octopiggy Bank"
- :placard/year "2030"}
+ :placard/year "2026"}
