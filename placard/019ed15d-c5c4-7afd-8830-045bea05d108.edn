@@ -1,4 +1,4 @@
-{:placard/artists ["John Smith"]
+{:placard/artists ["John Smith" "boo"]
  :placard/description "Lorem ipsum..."
  :placard/id #uuid "019ed15d-c5c4-7afd-8830-045bea05d108"
  :placard/materials "Materials"
