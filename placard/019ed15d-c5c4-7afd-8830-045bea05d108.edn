@@ -1,5 +1,5 @@
-{:placard/artists ["John Smith" "blagh"]
- :placard/description "Lorem ipsum..."
+{:placard/artists ["John Smith" "blaghggggggg"]
+ :placard/description "Lorem ipsum...sdfsdfsdfsdf"
  :placard/id #uuid "019ed15d-c5c4-7afd-8830-045bea05d108"
  :placard/materials "Materials"
  :placard/shortcode "hGF2"
